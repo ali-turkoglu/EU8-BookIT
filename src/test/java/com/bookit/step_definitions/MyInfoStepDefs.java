@@ -46,7 +46,5 @@ public class MyInfoStepDefs {
 		BookItApiUtil.getTokenByRole("teacher");
 		BookItApiUtil.getTokenByRole("student-member");
 		BookItApiUtil.getTokenByRole("student-leader");
-
-
 	}
 }
